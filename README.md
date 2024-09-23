@@ -18,8 +18,8 @@ I am a **Unity Developer** with a deep passion for **game development**. My enth
   - Created a demo project where players collect balls in a 2048-style format.
 - **Mini-Games Collection**
   - Designed and developed a collection of mini-games, including 3 out of a total of 8, each providing unique and engaging experiences.
-- **Canvas/Interface Knowledge**
-  - Possess foundational understanding of Canvas and user interface design principles.
+- **Clash of Hens**
+  - Face hundreds of battles and collect various kinds of adorable cat armies. Command your Cats with simple controls in a battle in the intense war field.
 
 ## 📫 Contact Information
 
